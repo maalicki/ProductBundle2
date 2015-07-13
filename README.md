@@ -1,6 +1,3 @@
-
-A Symfony project created on July 13, 2015, 3:19 pm.
-=======
 # ProductBundle2
 Simple product page created with Symfony2, AngularJS and MongoDB
 
