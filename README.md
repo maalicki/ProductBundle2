@@ -1,4 +1,4 @@
-# Product2Bundle
+# ProductBundle2
 Simple product page created with Symfony2, AngularJS and MongoDB
 
 - [GruntJS](http://gruntjs.com) and (Bower)[http://bower.io] are required.
@@ -42,5 +42,3 @@ Install assets as symlink
 ```shell
 php app/console assets:install web --symlink
 ```
-
->>>>>>> 62f99e585f9ffd32e621eb7a6c92ab8c374125b9
