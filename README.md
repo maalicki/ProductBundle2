@@ -1,4 +1,4 @@
-# ProductBundle2
+# Product2Bundle
 Simple product page created with Symfony2, AngularJS and MongoDB
 
 - [GruntJS](http://gruntjs.com) and (Bower)[http://bower.io] are required.
