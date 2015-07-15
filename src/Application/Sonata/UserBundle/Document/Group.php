@@ -20,12 +20,14 @@ use Sonata\UserBundle\Document\BaseGroup as BaseGroup;
  *   working with object : http://www.doctrine-project.org/docs/mongodb_odm/1.0/en/reference/working-with-objects.html
  *
  * @author <yourname> <youremail>
+ * @MongoDB\Document()
+ * @MongoDB\MappedSuperclass()
  */
 class Group extends BaseGroup
 {
-    /**
-     * @var integer $id
-     */
+	/**
+	 * @MongoDB\Id()
+	 */
     protected $id;
 
     /**
