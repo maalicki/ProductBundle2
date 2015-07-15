@@ -40,7 +40,7 @@ class Product
     {
         $this->category = new \Doctrine\Common\Collections\ArrayCollection();
     }
-    
+
     /**
      * Get id
      *

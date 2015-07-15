@@ -35,11 +35,12 @@ class Category
     {
         return $this->getName();
     }
+
     public function __construct()
     {
         $this->products = new \Doctrine\Common\Collections\ArrayCollection();
     }
-    
+
     /**
      * Get id
      *
